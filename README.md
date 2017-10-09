@@ -20,6 +20,8 @@ Code above creates a button inside a `LinearLayout` and attaches an `OnClickList
 As you might have guessed, it's a DSL for Android. It is written in [Kotlin](http://kotlinlang.org).
 
 ## Contents
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fanko.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fanko?ref=badge_shield)
+
 
 * [Why Anko?](#why-anko)
 	* [Why DSL?](#why-dsl)
@@ -424,3 +426,7 @@ verticalLayout {
     is EditText -> view.textSize = 20f
 }}
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fanko.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fanko?ref=badge_large)
